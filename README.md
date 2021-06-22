@@ -4,4 +4,4 @@ I am a data enthusiast with 10 years of organizational research and teaching exp
 
 I am currently learning **machine learning** and other **data science** techniques while enhancing my programming competence.
 
-You can view my portfolio here: [Data Science Portfolio](https://github.com/bloonsinthesky/Data-Science-Portfolio)
+You can view my portfolio here: [Data Science Portfolio](https://bloonsinthesky.github.io/)

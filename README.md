@@ -4,4 +4,4 @@ I am a data analyst with 10 years of research and teaching experience in busines
 
 I am currently learning **machine learning** while enhancing my programming competence.
 
-You can view my portfolio here: [Data Science and Analytics Portfolio](https://bloonsinthesky.github.io/)
+You can view my portfolio here: [Data Analytics Portfolio](https://bloonsinthesky.github.io/)
